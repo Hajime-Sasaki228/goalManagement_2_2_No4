@@ -4,6 +4,7 @@
   "description": "講座No.4",
   "main": "index.js",
   "scripts": {
+    "myScript": "echo done",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
